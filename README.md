@@ -1,4 +1,4 @@
-# FinAPI - Financeira
+# 🏛 FinAPI - Financeira
 FINAPI - API financeira para transações bancarias, podendo criar uma conta, ver o extrato bancário,
 realizar um saque etc.
 
@@ -11,7 +11,7 @@ Esse é o Primeiro projeto do bootcamp do Ignite da Rocketseat, desenvolvida nas
 - Uuidv4(https://www.npmjs.com/package/uuidv4)
 
 
-### Requisitos
+### 🟢 Requisitos
 - [x] Deve ser possível criar uma conta.
 - [x] Deve ser possível buscar o extrato bancário do cliente.
 - [x] Deve ser possível realizar um depósito.
@@ -21,7 +21,7 @@ Esse é o Primeiro projeto do bootcamp do Ignite da Rocketseat, desenvolvida nas
 - [ ] Deve ser possível obter dados da conta do cliente.
 - [ ] Deve ser possível deletar uma conta
 
-### Regras de negócio
+### 🔴 Regras de negócio
 - [x] Não deve ser possível cadastrar uma conta com CPF já existente.
 - [x] Não deve ser possível buscar estrato em uma conta não existente.
 - [x] Não deve ser possível fazer depósito em uma conta não existente.
