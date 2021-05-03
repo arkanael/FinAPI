@@ -6,9 +6,9 @@ realizar um saque etc.
 Esse é o Primeiro projeto do bootcamp do Ignite da Rocketseat, desenvolvida nas aulas do primeiro capitulo do curso Ignite, com o intuito de colocar em prática os fundamentos do NodeJs.
 
 ### 🧪 Tecnologias
-- NodeJs(https://nodejs.org/)
-- Express(https://expressjs.com/)
-- Uuidv4(https://www.npmjs.com/package/uuidv4)
+- NodeJs  (https://nodejs.org/)
+- Express (https://expressjs.com/)
+- Uuidv4  (https://www.npmjs.com/package/uuidv4)
 
 ### 🛠 Features
 - Cadastro de conta.
